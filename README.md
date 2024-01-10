@@ -1,6 +1,7 @@
 ## Histoires dont vous êtes le héros
 
 Groupe test but23_groupeTT
+Projet réalisé sur Gitlab, téléchargé puis transféré sur Github
 
 ## Version initiale
 
